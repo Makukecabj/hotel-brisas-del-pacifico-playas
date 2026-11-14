@@ -3,7 +3,7 @@
     "name": "Hotel Brisas del Pacifico",
     "short_name": "Hotel Brisas del Pacifico",
     "tagline": "Hotel Brisas del Pacifico · Playas",
-    "description": "Hotel Brisas del Pacifico en Playas: reservas directas por WhatsApp.",
+    "description": "Hotel Brisas del Pacifico, tu alojamiento en Playas.",
     "category": "Hospedaje",
     "followers": 0
   },
@@ -11,10 +11,10 @@
     "video": "videos/city-video.mp4",
     "poster": "fotos/foto-01.webp",
     "eyebrow": "Playas · Av. Jambelí y Calle 16",
-    "title_line1": "Vive la mejor experiencia en",
+    "title_line1": "Hospedate en",
     "title_em": "Hotel Brisas del Pacifico",
     "title_line2": "",
-    "subtitle": "Un lugar donde descansar en Playas."
+    "subtitle": "Hotel Brisas del Pacifico: tu alojamiento en Playas."
   },
   "location": {
     "address": "Av. Jambelí y Calle 16, 092150 Gral Villamil",
@@ -25,7 +25,7 @@
     "destination_type": "beach",
     "map_query": "Av. Jambelí y Calle 16, 092150 Gral Villamil, Playas",
     "map_embed": "https://maps.google.com/maps?q=Av.+Jambel%C3%AD+y+Calle+16%2C+092150+Gral+Villamil%2C+Playas&t=&z=15&ie=UTF8&iwloc=&output=embed",
-    "description": "Playas. La ubicación exacta está en el mapa.",
+    "description": "Playas. Tu punto de partida para explorar la zona.",
     "video": "videos/city-video.mp4"
   },
   "contact": {
@@ -41,10 +41,10 @@
     "tiktok": ""
   },
   "about": {
-    "eyebrow": "Conoce al equipo",
-    "title": "Un poco de Hotel Brisas del Pacifico.",
+    "eyebrow": "Quiénes están al frente",
+    "title": "Hotel Brisas del Pacifico, todo lo que necesitas saber.",
     "paragraphs": [
-      "Hotel Brisas del Pacifico es tu base en Playas. Todos los detalles de la estadía se confirman con nosotros antes de reservar."
+      "Hotel Brisas del Pacifico recibe huéspedes en Playas. Sin comisiones de plataformas: la reserva se coordina directamente con nosotros."
     ],
     "photos": [
       {
@@ -58,9 +58,9 @@
     ]
   },
   "trust_bar": [
-    "Contacto directo con el alojamiento",
-    "Sin comisiones de plataformas",
-    "Respuestas claras"
+    "Consultas directas por WhatsApp",
+    "Reserva directa, sin comisiones de plataformas",
+    "Atención personalizada"
   ],
   "amenities": [
     {
@@ -148,24 +148,24 @@
   },
   "faq": [
     {
-      "question": "¿Está incluido el desayuno?",
-      "answer": "Se confirma por WhatsApp para las fechas elegidas."
-    },
-    {
-      "question": "¿Cuál es la política de cancelación?",
-      "answer": "Las condiciones de cancelación se confirman por WhatsApp antes de reservar."
-    },
-    {
-      "question": "¿Se puede pagar con tarjeta?",
-      "answer": "Las formas de pago disponibles se consultan por WhatsApp."
-    },
-    {
       "question": "¿Se admiten mascotas?",
       "answer": "Se consulta por WhatsApp según cada caso."
     },
     {
-      "question": "¿Está cerca del mar?",
-      "answer": "Escríbenos y te contamos exactamente cuánto hay hasta la playa desde aquí."
+      "question": "¿Hay estacionamiento?",
+      "answer": "Se confirma por WhatsApp antes de reservar."
+    },
+    {
+      "question": "¿A qué hora es el check-in y el check-out?",
+      "answer": "Los horarios se coordinan por WhatsApp según la llegada y la salida."
+    },
+    {
+      "question": "¿Se puede dejar el equipaje?",
+      "answer": "Se consulta por WhatsApp según el horario de llegada y de salida."
+    },
+    {
+      "question": "¿Qué se puede hacer en la zona?",
+      "answer": "La zona es ideal para playa, paseos costeros y buena comida. Te recomendamos los mejores lugares."
     }
   ],
   "footer": {
@@ -186,14 +186,14 @@
         "video": "videos/city-video.mp4",
         "poster": "fotos/foto-01.webp",
         "eyebrow": "Playas · Av. Jambelí y Calle 16",
-        "title_line1": "Your next stop:",
+        "title_line1": "Stay at",
         "title_em": "Hotel Brisas del Pacifico",
         "title_line2": "",
         "subtitle": "Your Playas hideaway after a day of exploring."
       },
       "about": {
-        "eyebrow": "Our story",
-        "title": "Let us tell you about Hotel Brisas del Pacifico.",
+        "eyebrow": "What we do",
+        "title": "Everything about Hotel Brisas del Pacifico.",
         "paragraphs": [
           "Hotel Brisas del Pacifico is accommodation in Playas. Availability, prices and services are handled directly with us over WhatsApp, with no middlemen."
         ],
@@ -209,7 +209,7 @@
         ]
       },
       "location": {
-        "description": "Playas. The exact location is on the map."
+        "description": "Playas. Directions available over WhatsApp."
       },
       "gallery": {
         "images": [
@@ -272,24 +272,24 @@
       },
       "faq": [
         {
-          "question": "Is there parking?",
+          "question": "Is there WiFi?",
           "answer": "This is confirmed over WhatsApp before booking."
-        },
-        {
-          "question": "Is breakfast included?",
-          "answer": "This is confirmed over WhatsApp for your dates."
-        },
-        {
-          "question": "What does the stay include?",
-          "answer": "Included services are detailed over WhatsApp together with the price."
         },
         {
           "question": "Can I leave my luggage?",
           "answer": "Ask over WhatsApp depending on arrival and departure times."
         },
         {
-          "question": "Is it close to the beach?",
-          "answer": "Message us and we'll tell you exactly how far the beach is from here."
+          "question": "Are pets allowed?",
+          "answer": "Ask over WhatsApp, it is handled case by case."
+        },
+        {
+          "question": "Is there parking?",
+          "answer": "This is confirmed over WhatsApp before booking."
+        },
+        {
+          "question": "What is there to do in the area?",
+          "answer": "The area is great for the beach, seaside walks and good food. We'll share our favorite spots."
         }
       ],
       "trust_bar": [
@@ -328,7 +328,7 @@
       {
         "@type": "Hotel",
         "name": "Hotel Brisas del Pacifico",
-        "description": "Tu base en Hotel Brisas del Pacifico para explorar Playas.",
+        "description": "Hotel Brisas del Pacifico es tu refugio en Playas después de recorrer.",
         "url": "",
         "telephone": "+593994324027",
         "email": "",
@@ -340,7 +340,6 @@
           "@type": "PostalAddress",
           "streetAddress": "Av. Jambelí y Calle 16, 092150 Gral Villamil",
           "addressLocality": "Playas",
-          "addressRegion": "",
           "addressCountry": "EC"
         },
         "amenityFeature": [
@@ -366,30 +365,6 @@
         "mainEntity": [
           {
             "@type": "Question",
-            "name": "¿Está incluido el desayuno?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Se confirma por WhatsApp para las fechas elegidas."
-            }
-          },
-          {
-            "@type": "Question",
-            "name": "¿Cuál es la política de cancelación?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Las condiciones de cancelación se confirman por WhatsApp antes de reservar."
-            }
-          },
-          {
-            "@type": "Question",
-            "name": "¿Se puede pagar con tarjeta?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Las formas de pago disponibles se consultan por WhatsApp."
-            }
-          },
-          {
-            "@type": "Question",
             "name": "¿Se admiten mascotas?",
             "acceptedAnswer": {
               "@type": "Answer",
@@ -398,10 +373,34 @@
           },
           {
             "@type": "Question",
-            "name": "¿Está cerca del mar?",
+            "name": "¿Hay estacionamiento?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Escríbenos y te contamos exactamente cuánto hay hasta la playa desde aquí."
+              "text": "Se confirma por WhatsApp antes de reservar."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿A qué hora es el check-in y el check-out?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Los horarios se coordinan por WhatsApp según la llegada y la salida."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Se puede dejar el equipaje?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Se consulta por WhatsApp según el horario de llegada y de salida."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Qué se puede hacer en la zona?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "La zona es ideal para playa, paseos costeros y buena comida. Te recomendamos los mejores lugares."
             }
           }
         ]

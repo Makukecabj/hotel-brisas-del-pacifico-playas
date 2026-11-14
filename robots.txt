@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hotel-brisas-del-pacifico-playas.vercel.app/sitemap.xml
